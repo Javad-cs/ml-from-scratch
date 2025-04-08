@@ -6,7 +6,7 @@ These implementations were built as part of a hands-on effort to deeply understa
 
 ---
 
-## 🔍 Projects
+## Projects
 
 ###  `lasso_ridge_reg/`
 **Lasso & Ridge Regression**  
